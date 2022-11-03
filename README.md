@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mattyshalom/mattyshalom/blob/main/971.jpg)
 <h1 align="center">Hi 👋, I'm mattyshalom</h1>
 <h3 align="center">A passionate software Engineering student at ALX Africa from Nigeria</h3>
 
