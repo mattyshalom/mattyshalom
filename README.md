@@ -1,4 +1,4 @@
-![logo](https://www.shutterstock.com/image-vector/programmer-work-concept-banner-software-web-1641315988)
+![logo](https://github.com/mattyshalom/mattyshalom/blob/978fa924b6c8f43cb4f3035d2b6254e1972ac070/2738.jpg)
 <h1 align="center">Hi 👋, I'm mattyshalom</h1>
 <h3 align="center">A passionate software Engineering student at ALX Africa from Nigeria</h3>
 
