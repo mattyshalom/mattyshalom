@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Python Automation**
 
-- 💬 Ask me about **HTML, CSS, C Programming**
+- 💬 Ask me about **HTML, CSS, C Programming, python, Networking**
 
 - 📫 How to reach me **olusegesunday@yahoo.com**
 
